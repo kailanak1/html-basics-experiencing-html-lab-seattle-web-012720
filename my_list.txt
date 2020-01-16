@@ -1,0 +1,5 @@
+"Pikachu"
+"Eevee"
+"Charizard"
+"Clefairy" 
+"Mew"
